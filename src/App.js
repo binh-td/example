@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Hoang Dat
-          Linh Đạt
+          Linh Đạt 1
         </a>
       </header>
     </div>
