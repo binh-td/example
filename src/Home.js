@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Home() {
   return (
-    <div>Home</div>
+    <div>Home 43242424</div>
   )
 }
 
@@ -13,4 +13,3 @@ export default function Home() {
 // git commit -m "" để commit code từ staging area lên local repo. VD: git commit -m "update"
 // git push để đẩy code từ local repo lên remote repo
 // git pull để lấy code từ remote repo xuống local repo
-
