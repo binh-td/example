@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Home() {
   return (
-    <div>Home 43242424</div>
+    <div>Home 4324242</div>
   )
 }
 
